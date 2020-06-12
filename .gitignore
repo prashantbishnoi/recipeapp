@@ -128,4 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# pycharm git files (not required)
 .idea/
+
+# migrations
+*/migrations/
